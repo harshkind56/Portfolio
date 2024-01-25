@@ -1,0 +1,24 @@
+{
+    "portfolio" : [
+        {
+            "image": "/portfolio/insta.jpeg",
+            "name": "Instagram clone",
+            "description": "Built using Django and bootstrap",
+            "url": "https://github.com/harshkind56/Instaclone_django"
+        },
+        {
+            "image": "/portfolio/blog.jpeg",
+            "name": "Event Management system",
+            "description": "Built using Django and bootstrap",
+            "url": "https://github.com/harshkind56/event-management-system"
+        },
+        {
+            "image": "/portfolio/netflix.jpeg",
+            "name": "NetflixGPT",
+            "description": "Built using React and firebase",
+            "url": "https://github.com/harshkind56/netflix_gpt"
+        }
+
+    ]
+
+}
